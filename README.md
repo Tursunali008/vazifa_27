@@ -3,6 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="assets/images/image.png" width="350" title="hover text">
+
+Screenshot 1
+<img src="assets/images/wether.png" width="300">
+<img src="assets/images/wether_2.png" width="300">
+<img src="assets/images/cvUi.png" width="300">
 
 This project is a starting point for a Flutter application.
 

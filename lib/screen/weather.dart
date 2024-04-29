@@ -27,7 +27,7 @@ class _WeatherState extends State<Weather> {
             const Row(
               children: [
                 Text(
-                  'Bandung,',
+                  'London,',
                   style: TextStyle(fontSize: 27, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(
@@ -56,7 +56,7 @@ class _WeatherState extends State<Weather> {
                   height: 12,
                 ),
                 const Text(
-                  'Heavy Rain',
+                  'Low Rain',
                   style: TextStyle(
                       fontSize: 26,
                       fontWeight: FontWeight.bold,
